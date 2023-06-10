@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-financial-accounting/static/css/main.13aa2638.css",
+    "main.js": "/react-financial-accounting/static/js/main.a9dd0b52.js",
+    "index.html": "/react-financial-accounting/index.html",
+    "main.13aa2638.css.map": "/react-financial-accounting/static/css/main.13aa2638.css.map",
+    "main.a9dd0b52.js.map": "/react-financial-accounting/static/js/main.a9dd0b52.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.13aa2638.css",
+    "static/js/main.a9dd0b52.js"
+  ]
+}
